@@ -104,7 +104,7 @@ const skillData = [
                 name: 'SEO EXPERT',
             },
             {
-                name: 'DEGETAL MARKETER',
+                name: 'DIGITAL MARKETER',
             },
             {
                 name: 'PYTHON DEVELOPER',
